@@ -80,3 +80,21 @@ Hapus website yang sudah diproses dari file input
 Simpan hasil terurut dan unique
 
 Backup-safe dengan file locking
+
+===================================
+    SIMPLE EMAIL EXTRACTOR
+===================================
+Memulai ekstraksi email...
+File: websites.txt
+Threads: 10
+Output: result.txt
+
+Total website: 150
+Memproses...
+
+Batch 1/15: ✓.✓.✓✓..✓
+Batch 2/15: .✓.✓✓.✓..
+...
+
+Selesai! Hasil disimpan di: result.txt
+File websites.txt telah dihapus.
